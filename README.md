@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Igor Silva 👋</h1>
-<h3 align="center">Full Stack Developer · Java & Spring Boot · React & Next.js · Node.js · Python</h3>
+<h3 align="center">Full Stack Developer · Java & Spring Boot · React & Next.js · Flutter · Node.js · Python</h3>
 
 <p align="center">
-  I build scalable, maintainable web products end to end — from well-designed APIs and databases to fast, accessible user interfaces.
+  I build scalable, maintainable web and mobile products end to end — from well-designed APIs and databases to fast, accessible user interfaces.
 </p>
 
 ---
@@ -12,6 +12,7 @@
 - 🔭 Full stack developer focused on **clean architecture**, **testable code** and **great user experience**
 - ⚙️ Back end: **Java / Spring Boot**, **Node.js**, **Python (Django / FastAPI)**
 - 🎨 Front end: **React**, **Next.js**, **TypeScript**
+- 📱 Mobile: **Flutter / Dart** for cross-platform apps (Android & iOS)
 - 🌱 Always learning: cloud, DevOps and software architecture
 - 🌎 Based in Brazil · Open to remote opportunities
 
@@ -31,6 +32,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Back end**
 
@@ -47,6 +49,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 **Databases & tools**
 
