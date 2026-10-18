@@ -18,11 +18,11 @@
 
 ### 🚀 Featured projects
 
-| Project | Link |
-|---|---|
-| **OutMedSA** | [outmedsa.com](https://outmedsa.com) |
-| **TaxCerto** | [taxcerto.com.br](https://taxcerto.com.br) |
-| **Vekx** | [vekx.com.br](https://vekx.com.br) |
+| Project | Website | Mobile app |
+|---|---|---|
+| **OutMedSA** | [outmedsa.com](https://outmedsa.com) | [Google Play](https://play.google.com/store/apps/details?id=com.outmedsa.app) · [App Store](https://apps.apple.com/br/app/outmed/id6793736980) |
+| **TaxCerto** | [taxcerto.com.br](https://taxcerto.com.br) | — |
+| **Vekx** | [vekx.com.br](https://vekx.com.br) | — |
 
 ### 🛠️ Tech stack
 
