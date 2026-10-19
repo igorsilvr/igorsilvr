@@ -26,6 +26,7 @@
 | **Suwap** | [suwap.com.br](https://www.suwap.com.br) | — |
 | **Pereira Eventos** | [pereiraeventos.cloud](https://pereiraeventos.cloud) | — |
 | **RPCerto** | [rpcerto.cloud](https://rpcerto.cloud) | — |
+| **Mercaven** | [mercaven.com](https://mercaven.com) | — |
 
 ### 🛠️ Tech stack
 
