@@ -24,6 +24,8 @@
 | **TaxCerto** | [taxcerto.com.br](https://taxcerto.com.br) | — |
 | **Vekx** | [vekx.com.br](https://vekx.com.br) | — |
 | **Suwap** | [suwap.com.br](https://www.suwap.com.br) | — |
+| **Pereira Eventos** | [pereiraeventos.cloud](https://pereiraeventos.cloud) | — |
+| **RPCerto** | [rpcerto.cloud](https://rpcerto.cloud) | — |
 
 ### 🛠️ Tech stack
 
